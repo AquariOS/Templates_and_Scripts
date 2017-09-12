@@ -49,16 +49,16 @@ export USE_CCACHE=1
 Code:
 source ~/.bashrc
 
-8) In the terminal, navigate to where you would like to download the AquariOS source code. The commands below will make it in your home folder, but if you have limited space you may want to create it somewhere else. Faster is better, i.e. SSD would be best, USB external (even 3.0) will be comparatively slow. Here we go:
+8) In the terminal, navigate to where you would like to download the LineageOS source code. The commands below will make it in your home folder, but if you have limited space you may want to create it somewhere else. Faster is better, i.e. SSD would be best, USB external (even 3.0) will be comparatively slow. Here we go:
 
 Code:
-mkdir ~/aquarios
-cd ~/aquarios
+mkdir ~/lineage
+cd ~/lineage
 
 9) Now you're going to initialize the repo.
 
 Code:
-repo init -u https://github.com/aquarios/manifest -b a7.1.1
+repo init -u https://github.com/lineageos/android -b cm-14.1
 
 10) Last step. Time to get the source, many gigabytes of downloading await.
 
@@ -67,9 +67,6 @@ Don't worry, it's automated. It's the last one!
 Code:
 repo sync
 
-
-Don’t forget to set up permissions for adb/fastboot - 51-android.rules !!!
-See here: Scroll down to "udev" where it talks about 51 android rules
 
 That's it! Everything should be ready to go!
 
