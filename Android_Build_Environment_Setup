@@ -55,18 +55,22 @@ Code:
 mkdir ~/aquarios
 cd ~/aquarios
 
-9) Now you're going to initialize the repo.
+9) Setting your default git identity is done so by using the following format and entering each of these into terminal (only with your proper info in quotes):
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+10) Now you're going to initialize the repo.
 
 Code:
 repo init -u https://github.com/aquarios/manifest -b a8.0.0
 
-10) Last step. Time to get the source, many gigabytes of downloading await.
-
-Don't worry, it's automated. It's the last one!
+11) Last step. Time to get the source, many gigabytes of downloading await. Don't worry, it's automated. It's the last one!
 
 Code:
 repo sync
 
+#################################################################################################
 
 Don’t forget to set up permissions for adb/fastboot - 51-android.rules !!!
 See here: Scroll down to "udev" where it talks about 51 android rules
@@ -76,4 +80,3 @@ That's it! Everything should be ready to go!
 http://forum.xda-developers.com/chef-central/android/guide-how-to-setup-ubuntu-16-04-lts-t3363669
 
 https://source.android.com/source/initializing.html
-
