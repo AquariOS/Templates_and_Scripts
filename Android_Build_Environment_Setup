@@ -70,12 +70,12 @@ repo init -u https://github.com/aquarios/manifest -b a8.0.0
 Code:
 repo sync
 
+That's it! Everything should be ready to go!
+
 #################################################################################################
 
 Don’t forget to set up permissions for adb/fastboot - 51-android.rules !!!
 See here: Scroll down to "udev" where it talks about 51 android rules
-
-That's it! Everything should be ready to go!
 
 http://forum.xda-developers.com/chef-central/android/guide-how-to-setup-ubuntu-16-04-lts-t3363669
 
