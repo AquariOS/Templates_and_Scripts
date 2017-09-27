@@ -43,6 +43,8 @@ nano ~/.bashrc
 Code:
 export PATH=~/bin:$PATH
 export USE_CCACHE=1
+export USE_PREBUILT_CACHE=1
+export PREBUILT_CACHE_DIR=~/.ccache
 
 7) Save it. In nano that would be Ctrl-O and then Enter. Then Ctrl-X to exit back to a prompt. Restart bash:
 
