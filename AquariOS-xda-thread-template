@@ -1,16 +1,48 @@
-NOTE: THREAD TEMPLATE DOES NOT START HERE!!!
+NOTE: THREAD TEMPLATE DOES NOT START HERE!!! 
+
+
+MAKE SURE YOU READ AND FOLLOW THIS OR GTFO!
+
 
 PLEASE BE AWARE OF THE FOLLOWING:
 
 1. FIND THE 3 ENTRIES BELOW MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
+
 2. REMOVE THE "<<<<<" FROM YOUR COPY AFTER YOUR EDITING IS COMPLETED.
+
 3. LOOK THROUGH THE FEATURES LISTS AND MAKE SURE YOUR DEVICE IS COMPATIBLE WITH ALL ITEMS - REMOVE ANYTHING THAT ISN'T.
+
 4. BE SURE TO INCLUDE "[UNOFFICIAL]" IN YOUR THREAD TITLE, UNLESS PERMITTED OTHERWISE!
+
 5. PLEASE PAY ATTENTION TO YOUR THREAD AND USER COMMENTS :)
 
-===============================================COPY THREAD TEMPLATE STARTS BELOW THIS==============================================
+
+SETTING UP THREAD:
+
+1. COPY/PASTE THIS INTO THE "PROJECT NAME" FIELD:
+
+				AquariOS
+
+2. COPY/PASTE THIS INTO THE "THREAD TITLE" FIELD IN THE XDA THREAD PROJECT EDITOR PAGE: 
+
+				[ROM][OFFICIAL] AquariOS 8.1.0 || Live Support || VoLTE/WFC || Theming - MARCH 23
+
+   A) The "*" next to WFC is so you can specify in your thread which carriers have been reported to NOT have WiFi Calling working
+   B) Obviously change the date in the ROM thread title to reflect the date of your latest build
+
+3. Don't forget to change the "project forum" to the ROM section.
+
+4. Add calebcabob and rc420head into the first 2 contributor fields
+
+
+=============================================== THREAD TEMPLATE STARTS BELOW THIS ============================================
 
 [CENTER][IMG]http://i.imgur.com/ymEqc4F.png[/IMG][/CENTER]
+
+[Center][B][size="4"] JOIN OUR TELEGRAM CHAT!
+[COLOR="#0d90c4"]Latest Oreo builds are now live!!![/color]
+[URL="https://t.me/joinchat/EccSokYT9SxC7GjVd4xNLg"]JOIN HERE![/URL][/B][/size]
+[Size="2"][I]No Telegram? Don't worry, all stable builds will also come this way![/I][/size][/CENTER]
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Disclaimer:[/COLOR][/FONT][/SIZE][/B]
 [SIZE="3"]We are [B]NOT[/B] responsible for anything that may happen to your device as a result of flashing ROMs, kernels, or installing any other mod. You are responsible for your own actions and bad decisions - so stop blaming others! ;)
@@ -32,127 +64,120 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [/INDENT]
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]AquariOS Team:[/COLOR][/FONT][/SIZE][/B]
 
-[B]LEAD DEVELOPERS:[/B]
-*[URL="https://forum.xda-developers.com/member.php?u=5349944"]calebcabob[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=5066258"]rc420head[/URL]
+[B]LEAD DEVS:[/B]
+*[MENTION=5349944]calebcabob[/MENTION]
+*[MENTION=5066258]rc420head[/MENTION]
 
-[B]DEVICE & THREAD MAINTAINERS:[/B]
-*[URL="https://forum.xda-developers.com/member.php?u=7395699"]kenny3fcb[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=6881531"]popogijo[/URL]
+[B]OTHER CONTRIBUTORS:[/B]
+*[MENTION=3199956]Fezzy102[/MENTION]
+*[MENTION=5545371]Roger.T[/MENTION]
+*[MENTION=2968294]MikereDD[/MENTION]
+*[MENTION=6881531]popogijo[/MENTION]
+*[MENTION=5169465]DespairFactor[/MENTION] 
 
-[B]TESTERS:[/B]
-*[URL="https://forum.xda-developers.com/member.php?u=5057789"]p70shooter[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=5825791"]Ghoshnik[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=2282448"]biron_w[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=4845974"]Thisismyringtone[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=4158306"]tcat007[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=5559940"]Lawlrus[/URL]
-*[URL="https://forum.xda-developers.com/member.php?u=4765745"]gillim74[/URL]
+[B]OFFICIAL TESTERS:[/B]
+*[MENTION=5057789]p70shooter[/MENTION]
+*[MENTION=2282448]biron_w[/MENTION]
+*[MENTION=7231934]S8ntsHaz3[/MENTION]
+*[MENTION=4950945]pathum1[/MENTION]
+*[MENTION=902739]dadoc04[/MENTION]
+*[MENTION=5144438]kheltek[/MENTION]
+*[MENTION=5559940]Lawlrus[/MENTION]
+*[MENTION=2955144]bryantjopplin[/MENTION]
+*[MENTION=5111123]undeadking[/MENTION]
+*[MENTION=4158306]tcat007[/MENTION]
 
-[B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Features:[/COLOR][/FONT][/SIZE][/B]
+
+[LIST][B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Features:[/COLOR][/FONT][/SIZE][/B]
 [size=3][I][COLOR="#0d90c4"][U]Featured attractions[/U][/COLOR][/I][/SIZE]
-*Smart Bar, Pulse, and Fling (up-to-date)
-*Smart Bar tint & Dynamic NavBar
-*Custom status bar battery options
-*Custom status bar clock and date
-*Status bar weather (OmniJaws engine)
-*Lock screen weather (OmniJaws engine)
-*QS Weather tile (OmniJaws engine)
-*Optional weather in expanded header
-*Custom Headers (contextual or custom)
-*Battery Bar (status bar & navbar)
-*Rootless Substratum - theme-ready & up-to-date
-*Magisk (root access)
-*Battery and Notification LED controls
-*Optional "Clear all" recents button
-*Volume rocker options
-*Lock screen visualizer
-*Fingerprint gestures
-*AppOps
-*Screenshot Crop & Share toggle
-*Optional Suspend Actions
-
+[*]Built-in theme engine (accent control, dark background & QS panel transparency control)
+[*]Smart Bar, Pulse, and Fling
+[*]Custom status bar battery options
+[*]Custom status bar clock and date
+[*]Multiple weather options (OmniJaws engine)
+[*]QS Google Sound Search tile
+[*]Custom Headers (built-in or custom)
+[*]Battery Bar (status bar & navbar)
+[*]Battery & Per-app Notification LED controls
+[*]Optional "Clear all" recents button
+[*]Volume rocker options
+[*]Lock screen visualizer
+[*]Advanced powermenu (Stock look & feel)
+[*]App Ops
+[/LIST]
 [size=3][I][COLOR="#0d90c4"]Expand to see full list of features:[/COLOR][/I][/SIZE]
-[hide]
+[hide][LIST]
 [size=3][I][COLOR="#0d90c4"][U]Navbar & Status bar[/U][/COLOR][/I][/SIZE]
-*Smart Bar, Pulse, and Fling
-      *One-handed mode
-      *Ripple/Spring/Flip/Pixel animations
-      *Optional seek arrows for media playback
-      *All visualizer customizations
-*Custom status bar battery options
-*Custom status bar clock and date
-*Status bar weather (OmniJaws engine)
-*Battery Bar (status bar & navbar)
-*Network traffic indicator
+[*]Smart Bar, Pulse, and Fling
+      [*]One-handed mode
+      [*]Ripple/Spring/Flip/Pixel animations
+      [*]Optional seek arrows for media playback
+      [*]All visualizer customizations
+[*]Custom status bar battery options (circle, dotted circle, large circle, square, hide)
+[*]Custom status bar clock and date
+[*]Battery Bar (status bar & navbar)
+[*]Network traffic indicator
 
 [size=3][I][COLOR="#0d90c4"][U]Notification Drawer[/U][/COLOR][/I][/SIZE]
-*QS Weather tile (OmniJaws engine)
-*5-day weather display in header (OmniJaws)
-*Custom Headers (contextual or custom)
-*Advanced quick settings easy toggle (3-mode location toggle)
-*Easy toggle for Wi-Fi, Bluetooth, and Location
-*Brightness slider on/off toggle
-*Haptic feedback on quick setting on/off toggle
-*Ability to change number of quick settings columns/rows
-*All tile scroller for small QS tiles
-*Option to hide QS tile titles
+[*]QS Weather tile (OmniJaws engine)
+[*]Custom Headers (contextual or custom)
+[*]Advanced quick settings easy toggle (3-mode location toggle)
+[*]Brightness slider on/off toggle (on bottom)
+[*]Haptic feedback on quick setting on/off toggle
+[*]Ability to change number of quick settings columns/rows
+[*]Option to hide QS tile titles
+[*]Heads-up (less boring & blacklisting)
 
 [size=3][I][COLOR="#0d90c4"][U]Lock screen[/U][/COLOR][/I][/SIZE]
-*Lock screen item options (time, date, alarm text toggles & Clock font style)
-*Lock screen shortcuts
-*Lock screen weather (OmniJaws engine)
-*Lock screen visualizer
+[*]Lock screen bottom shortcut options
+[*]Lock screen charging info
+[*]Media art on lock screen (enable/disable)
+[*]Lock screen weather (OmniJaws engine)
+[*]Lock screen visualizer
 
 [size=3][I][COLOR="#0d90c4"][U]Buttons[/U][/COLOR][/I][/SIZE]
-*Power Menu customizations (shortcuts, actions)
-*Volume key wake
-*Volume key music control
-*Volume key orientation swap
-*Volume key keyboard cursor control
-*Volume down to enter do not disturb
-*Volume up to exit do not disturb
-*Do not disturb volume panel switch
-*Long-press power button for torch
+[*]Power Menu customizations (shortcuts, actions)
+[*]Volume key wake
+[*]Volume key music control
+[*]Volume key orientation swap
+[*]Volume key keyboard cursor control
+[*]Volume down to enter do not disturb
+[*]Volume up to exit do not disturb
+[*]Do not disturb volume panel switch
+[*]Long-press power button for torch
 
 [size=3][I][COLOR="#0d90c4"][U]System and Misc[/U][/COLOR][/I][/SIZE]
-*Rootless Substratum - fully theme-ready and up-to-date
-*Magisk (root access)
-*Battery and Notification LED controls
-*Optional "Clear all" recents button
-*Lots of system animation
-*Optional dashboard columns
-*Increasing ringtone option
-*Ability to unlink notification volume from ringer volume
-*Option to force show Enter key
-*Power notification controls
-*ADB enhancements (ADB over wifi, Hide ADB icon)
-*Long-pressing settings icon enters custom settings
-*Download speed in notification
-*Status bar brightness control
-*Advanced Reboot menu
-*Advanced screenshot functionality (longpress tile/power menu for selectable screenshot)
-*Ability to lock app in landscape via rotation tile
-*Advanced charging sound controls
-*Advanced seekbar style animation controls
-*Quick setting header Longpress actions
-*App package name to app info screen
-*Ability to launch app when touching app icon in app info screen
-*Phone info shortcut to about phone/status on top
-*Dynamic vendor image notification
-*Double tap anywhere to sleep
-*Long press power for torch
-*Option to disable pin needed after fingerprint unlock (even after first boot)
-*Option to disable fingerprint success vibration
-*Option to hide dashboard hints, summaries, etc.
-*Bug fixes and stability improvements
-*Developer settings enabled by default
-*Custom night light brightness options
-*Disabled forced encryption
-*Disabled tether provision checks
-*expanded desktop options
-*option to enable/disable wake on plug
+[*]Substratum compatibility
+[*]Battery and Notification LED controls
+[*]Music app launcher with headset options
+[*]Optional "Clear all" recents button (including placement)
+[*]Increasing ringtone option
+[*]Ability to unlink notification volume from ringer volume
+[*]Option to force show Enter key
+[*]Download speed in notification
+[*]Status bar brightness control
+[*]Double-tap to sleep on lock screen, navbar, & status bar
+[*]Advanced Reboot menu
+[*]Advanced screenshot functionality (partial/fullscreen & editor app selector)
+[*]Advanced screen recording tile
+[*]Advanced charging sound controls
+[*]App package name to app info screen
+[*]Ability to launch app when touching app icon in app info screen
+[*]Dynamic vendor image notification
+[*]Long press power for torch
+[*]Option to disable fingerprint success vibration
+[*]Hidden dashboard hints & summaries
+[*]Developer settings enabled by default
+[*]Custom night light brightness options
+[*]Disabled forced encryption
+[*]Disabled tether provision checks
+[*]Expanded desktop options
+[*]Vibrate on plug (enable/disable)
+[*]Wake on plug (enable/disable)
+[*]Bug fixes and stability improvements
+[/LIST]
 [/hide]
+
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Changelog:[/COLOR][/FONT][/SIZE][/B]
 [HIDE][CODE]
@@ -163,7 +188,7 @@ This is a user friendly thread. Please be respectful and courteous to other user
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Downloads:[/COLOR][/FONT][/SIZE][/B]
 
-<<<<< [size="3"]ROM: [URL="https://www.androidfilehost.com/?w=devices&uid=745425885120720606"]Latest AquariOS build[/URL]
+<<<<< [size="3"]ROM: [URL="https://www.androidfilehost.com/?w=devices&uid=745425885120720606"]Latest AquariOS build[/URL][/SIZE]
 
 GApps: [URL="http://opengapps.org/"]OpenGapps[/URL]
 
@@ -187,9 +212,10 @@ If you need a log extracting app, try out [URL="https://play.google.com/store/ap
 
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Credits & Thanks:[/COLOR][/FONT][/SIZE][/B]
-The CyanogenMod Community
+Ezio84
 Dirty Unicorns
 SlimRoms
+The LineageOS Community
 Team Substratum
 OmniRom
 The AquariOS testers!!!
@@ -198,7 +224,6 @@ And all other open source Devs/Teams who share their work!
 
 [B]Source Code:[/B]
 <<<<<[URL="https://github.com/AquariOS/kernel_huawei_angler"]Kernel[/URL]
-[CENTER]
-[B][FONT="Verdana"][URL="https://plus.google.com/communities/102431925733881544384"][COLOR="#c44238"][SIZE="5"]       JOIN OUR[/SIZE][SIZE="7"] G+ [/SIZE][SIZE="5"]COMMUNITY![/SIZE][/COLOR][/URL][/CENTER][/FONT][/B]
 
+[CENTER][B][FONT="Verdana"][URL="https://plus.google.com/communities/102431925733881544384"][COLOR="#c44238"][SIZE="5"]       JOIN OUR[/SIZE][SIZE="7"] G+ [/SIZE][SIZE="5"]COMMUNITY![/SIZE][/COLOR][/URL][/FONT][/B][/CENTER]
 ===============================================COPY THREAD TEMPLATE STARTS ABOVE THIS==============================================
