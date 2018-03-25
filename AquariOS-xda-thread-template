@@ -88,9 +88,9 @@ This is a user friendly thread. Please be respectful and courteous to other user
 *[MENTION=4158306]tcat007[/MENTION]
 
 
-[LIST][B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Features:[/COLOR][/FONT][/SIZE][/B]
+[B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Features:[/COLOR][/FONT][/SIZE][/B]
 [size=3][I][COLOR="#0d90c4"][U]Featured attractions[/U][/COLOR][/I][/SIZE]
-[*]Built-in theme engine (accent control, dark background & QS panel transparency control)
+[LIST][*]Built-in theme engine (accent control, dark background & QS panel transparency control)
 [*]Smart Bar, Pulse, and Fling
 [*]Custom status bar battery options
 [*]Custom status bar clock and date
@@ -106,9 +106,9 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [*]App Ops
 [/LIST]
 [size=3][I][COLOR="#0d90c4"]Expand to see full list of features:[/COLOR][/I][/SIZE]
-[hide][LIST]
+[hide]
 [size=3][I][COLOR="#0d90c4"][U]Navbar & Status bar[/U][/COLOR][/I][/SIZE]
-[*]Smart Bar, Pulse, and Fling
+[LIST][*]Smart Bar, Pulse, and Fling
       [*]One-handed mode
       [*]Ripple/Spring/Flip/Pixel animations
       [*]Optional seek arrows for media playback
@@ -117,26 +117,29 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [*]Custom status bar clock and date
 [*]Battery Bar (status bar & navbar)
 [*]Network traffic indicator
+[/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]Notification Drawer[/U][/COLOR][/I][/SIZE]
-[*]QS Weather tile (OmniJaws engine)
+[LIST][*]QS Weather tile (OmniJaws engine)
 [*]Custom Headers (contextual or custom)
-[*]Advanced quick settings easy toggle (3-mode location toggle)
+[*]Advanced location tile (3-mode location toggle)
 [*]Brightness slider on/off toggle (on bottom)
 [*]Haptic feedback on quick setting on/off toggle
 [*]Ability to change number of quick settings columns/rows
 [*]Option to hide QS tile titles
 [*]Heads-up (less boring & blacklisting)
+[/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]Lock screen[/U][/COLOR][/I][/SIZE]
-[*]Lock screen bottom shortcut options
+[LIST][*]Lock screen bottom shortcut options
 [*]Lock screen charging info
 [*]Media art on lock screen (enable/disable)
 [*]Lock screen weather (OmniJaws engine)
 [*]Lock screen visualizer
+[/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]Buttons[/U][/COLOR][/I][/SIZE]
-[*]Power Menu customizations (shortcuts, actions)
+[LIST][*]Power Menu customizations (shortcuts, actions)
 [*]Volume key wake
 [*]Volume key music control
 [*]Volume key orientation swap
@@ -145,9 +148,10 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [*]Volume up to exit do not disturb
 [*]Do not disturb volume panel switch
 [*]Long-press power button for torch
+[/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]System and Misc[/U][/COLOR][/I][/SIZE]
-[*]Substratum compatibility
+[LIST][*]Substratum compatibility
 [*]Battery and Notification LED controls
 [*]Music app launcher with headset options
 [*]Optional "Clear all" recents button (including placement)
