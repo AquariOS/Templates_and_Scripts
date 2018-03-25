@@ -1,10 +1,8 @@
-NOTE: THREAD TEMPLATE DOES NOT START HERE!!! 
+                                     THREAD TEMPLATE DOES NOT START HERE!!! 
 
+                                      MAKE SURE YOU READ AND FOLLOW THIS!
 
-MAKE SURE YOU READ AND FOLLOW THIS OR GTFO!
-
-
-PLEASE BE AWARE OF THE FOLLOWING:
+                                      PLEASE BE AWARE OF THE FOLLOWING:
 
 1. FIND THE 3 ENTRIES BELOW MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
 
@@ -21,11 +19,11 @@ SETTING UP THREAD:
 
 1. COPY/PASTE THIS INTO THE "PROJECT NAME" FIELD:
 
-				AquariOS
+				AquariOS 8.1.0
 
 2. COPY/PASTE THIS INTO THE "THREAD TITLE" FIELD IN THE XDA THREAD PROJECT EDITOR PAGE: 
 
-				[ROM][OFFICIAL] AquariOS 8.1.0 || Live Support || VoLTE/WFC || Theming - MARCH 23
+				[ROM][OFFICIAL] AquariOS 8.1.0 || Live Support || VoLTE/WFC* || Theming - MARCH 23
 
    A) The "*" next to WFC is so you can specify in your thread which carriers have been reported to NOT have WiFi Calling working
    B) Obviously change the date in the ROM thread title to reflect the date of your latest build
