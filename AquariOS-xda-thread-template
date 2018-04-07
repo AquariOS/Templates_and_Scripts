@@ -202,17 +202,27 @@ Read this before telling everyone something is broken!
 [B]1. Android Pay isn't working!! What do I do?[/B]
 [I]Go into Magisk settings and toggle on the "Hide Magisk" option. Then try again. Also, I've found once in a great while, even with this enabled, it will say it failed - if this happens, just try again...it'll work.[/I]
 
-[B]2. Help! I can't find more [I]Q & A[/I] entries! Why is there only one??[/B]
-[I]I'll add more soon :)[/I]
-[/HIDE]
+[B]2. It's bootlooping after flashing ROM with Magisk - now what?[/B]
+[I]Don't flash Magisk until you have already booted into the new AquariOS build at least once. If that wasn't your issue, sometimes Substratum overlays can cause bootloops. If you have anything applied, flash the SubstratumRescue zip from your substratum directory[/I]
 
+[B]3. Why is the built-in System Theme section greyed-out (background, accent, & fonts)? [/B]
+[I]When the Substratum app is installed, this section will become inaccessible in order to prevent conflicts. You CANNOT use them both at once![/I]
+[/HIDE]
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Reporting a bug?[/COLOR][/FONT][/SIZE][/B]
 See how to do so here:
 [HIDE]
-You need to provide a log in order for the issue to be addressed. Please also include how to reproduce the reported bug if possible.
-If you need a log extracting app, try out [URL="https://play.google.com/store/apps/details?id=com.pluscubed.matlog&hl=en"]MatLog[/URL] and/or paste your log into an online text sharing site like [URL="http://hastebin.com"]hastebin.com[/URL].[/HIDE]
+[B]BEFORE REPORTING A BUG:[/B]
+1. Flash the SubstratumRescue zip and see if your issue is still there.
+2. If you have flashed a custom kernel or ANY OTHER MODs, delete 'data/system/packages_cache' then wipe dalvik/cache, and flash AquariOS again WITHOUT any additional modifications/custom kernel.
+3. Check to see if your issue persists.
 
+*Do NOT even bother reporting an issue if you have dirty-flashed AquariOS over some other ROM! We WILL be able to tell!
+
+Logs are crucial to resolving almost any kind of issue. You need to provide a log in order for the issue to be addressed. Please also include info on how to reproduce the reported bug if possible (maybe even take a screen recording for us ;)).
+
+If you need a log extracting app, try out [URL="https://play.google.com/store/apps/details?id=com.nolanlawson.logcat&hl=en"]CatLog[/URL]!
+Either save your log locally and share it, or paste your log into an online code sharing tool like [URL="http://hastebin.com"]hastebin.com[/URL] - then share the URL after hitting the SAVE icon. [/HIDE]
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Credits & Thanks:[/COLOR][/FONT][/SIZE][/B]
 Ezio84
