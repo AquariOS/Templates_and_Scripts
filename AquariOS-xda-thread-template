@@ -4,7 +4,7 @@
 
                                       PLEASE BE AWARE OF THE FOLLOWING:
 
-1. FIND THE 5 ENTRIES BELOW MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
+1. FIND THE 7 ENTRIES BELOW MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
 
 2. REMOVE THE "<<<<<" FROM YOUR COPY AFTER YOUR EDITING IS COMPLETED.
 
@@ -94,8 +94,8 @@ This is a user friendly thread. Please be respectful and courteous to other user
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Features:[/COLOR][/FONT][/SIZE][/B]
 [size=3][I][COLOR="#0d90c4"][U]Featured attractions[/U][/COLOR][/I][/SIZE]
-[LIST][*]ActiveEdge: Smartnav actions linked to squeeze!
-[*]SmartBar, Pulse, and Fling
+[LIST][*]SmartBar, Pulse, and Fling
+<<<<<[*]ActiveEdge: Smartnav actions linked to squeeze!
 <<<<<[*]Hardware key customization
 [*]Theming: Dark/black background
 [*]Theming: Accent picker (27 colors)
@@ -160,6 +160,7 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [LIST][*]Substratum compatibility
 [*]Notification LED controls
 <<<<<[*]Battery LED controls
+[*]Custom doze options
 [*]Optional "Clear all" recents button (including placement)
 [*]Increasing ringtone option
 [*]Ability to unlink notification volume from ringer volume
@@ -194,7 +195,7 @@ This is a user friendly thread. Please be respectful and courteous to other user
 
 <<<<< [size="3"]ROM: [URL="https://www.androidfilehost.com/?w=devices&uid=745425885120720606"]Latest AquariOS build[/URL][/SIZE]
 
-GApps: [URL="http://opengapps.org/"]OpenGapps[/URL]
+<<<<<GApps: [URL="http://opengapps.org/"]OpenGapps[/URL]
 
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Q & A[/COLOR][/FONT][/SIZE][/B]
