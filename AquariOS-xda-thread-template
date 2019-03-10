@@ -4,7 +4,7 @@
 
                                       PLEASE BE AWARE OF THE FOLLOWING:
 
-1. FIND THE 4 ENTRIES BELOW MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
+1. FIND THE 5 ENTRIES BELOW MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
 
 2. REMOVE THE "<<<<<" FROM YOUR COPY AFTER YOUR EDITING IS COMPLETED.
 
@@ -21,11 +21,13 @@ SETTING UP THREAD:
 
 7. COPY/PASTE THIS INTO THE "PROJECT NAME" FIELD:
 
-				AquariOS 8.1.0
+				AquariOS 9
 
 8. COPY/PASTE THIS INTO THE "THREAD TITLE" FIELD IN THE XDA THREAD PROJECT EDITOR PAGE: 
 
-				[ROM][OFFICIAL] AquariOS 8.1.0 || Live Support || VoLTE/WFC* || Theming - MARCH 23
+        ***ONLY post ROM as "OFFICIAL" if given direct permission by @calebcabob or @rc420head, otherwise use "UNOFFICIAL"
+
+				[ROM][OFFICIAL] AquariOS 9 || Live Support || VoLTE/WFC* || Theming || <date>
 
    A) The "*" next to WFC is so you can specify in your thread which carriers have been reported to NOT have WiFi Calling working
    B) Obviously change the date in the ROM thread title to reflect the date of your latest build
@@ -40,7 +42,7 @@ SETTING UP THREAD:
 [CENTER][IMG]http://i.imgur.com/ymEqc4F.png[/IMG][/CENTER]
 
 [Center][B][size="4"] JOIN OUR TELEGRAM CHAT!
-[COLOR="#0d90c4"]Latest Oreo builds are now live!!![/color]
+[COLOR="#0d90c4"]Latest Pie builds are now live!!![/color]
 [URL="https://bit.ly/2XkRiiM"]JOIN HERE![/URL][/B][/size]
 [Size="2"][I]No Telegram? Don't worry, all stable builds will also come this way![/I][/size][/CENTER]
 
@@ -67,118 +69,115 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [B]LEAD DEVS:[/B]
 *[MENTION=5349944]calebcabob[/MENTION]
 *[MENTION=5066258]rc420head[/MENTION]
+*[MENTION=470268]bigrushdog[/MENTION]
 
 [B]OTHER CONTRIBUTORS:[/B]
 *[MENTION=3199956]Fezzy102[/MENTION]
 *[MENTION=5545371]Roger.T[/MENTION]
 *[MENTION=2968294]MikereDD[/MENTION]
 *[MENTION=6881531]popogijo[/MENTION]
-*[MENTION=5169465]DespairFactor[/MENTION] 
+*[MENTION=5391886]DigiGoon[/MENTION]
 
 [B]OFFICIAL TESTERS:[/B]
-*[MENTION=5057789]p70shooter[/MENTION]
 *[MENTION=2282448]biron_w[/MENTION]
 *[MENTION=7231934]S8ntsHaz3[/MENTION]
 *[MENTION=4950945]pathum1[/MENTION]
 *[MENTION=902739]dadoc04[/MENTION]
 *[MENTION=5144438]kheltek[/MENTION]
-*[MENTION=5559940]Lawlrus[/MENTION]
-*[MENTION=2955144]bryantjopplin[/MENTION]
 *[MENTION=5111123]undeadking[/MENTION]
-*[MENTION=4158306]tcat007[/MENTION]
+*[MENTION=328904]pro_b[/MENTION]
+*[MENTION=5582262]rav101[/MENTION]
+*[MENTION=4035990]koax88[/MENTION]
+*[MENTION=2648468]Triscuit[/MENTION]
+*[MENTION=4950945]DigiGoon[/MENTION]
 
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Features:[/COLOR][/FONT][/SIZE][/B]
 [size=3][I][COLOR="#0d90c4"][U]Featured attractions[/U][/COLOR][/I][/SIZE]
-[LIST][*]Built-in theme engine (accent control, dark background & QS panel transparency control)
-[*]Smart Bar, Pulse, and Fling
+[LIST][*]ActiveEdge: Smartnav actions linked to squeeze!
+[*]SmartBar, Pulse, and Fling
 <<<<<[*]Hardware key customization
+[*]Theming: Dark/black background
+[*]Theming: Accent picker (27 colors)
+[*]Theming: AquariOS TileStyles (changes QS tile shapes) 
+[*]Theming: Font engine
 [*]Custom status bar battery options
 [*]Custom status bar clock and date
-[*]Multiple weather options (OmniJaws engine)
-[*]QS Google Sound Search tile
-[*]Custom Headers (built-in or custom)
-[*]Battery Bar (status bar & navbar)
-[*]Battery & Per-app Notification LED controls
-[*]Optional "Clear all" recents button
+[*]Custom headers
+[*]Lock screen weather: Pixel style
+[*]BatteryBar: status bar & navbar
+[*]Custom LED color controls
+[*]"Clear all" recents button (if QuickStep disabled)
 [*]Volume rocker options
 [*]Lock screen visualizer
-[*]Advanced powermenu (Stock look & feel)
+[*]Lock screen custom clocks
+[*]Advanced power menu (Stock look & feel)
 [*]App Ops
 [/LIST]
 [size=3][I][COLOR="#0d90c4"]Expand to see full list of features:[/COLOR][/I][/SIZE]
 [hide]
 [size=3][I][COLOR="#0d90c4"][U]Navbar & Status bar[/U][/COLOR][/I][/SIZE]
 [LIST][*]Smart Bar, Pulse, and Fling
-      [*]One-handed mode
       [*]Ripple/Spring/Flip/Pixel animations
       [*]Optional seek arrows for media playback
-      [*]All visualizer customizations
-[*]Custom status bar battery options (circle, dotted circle, large circle, square, hide)
-[*]Custom status bar clock and date
+      [*]Pulse: Stock & SmartBar. Blacklisting. Advanced controls
+      [*]Double-tap navbar to sleep
+[*]Custom status bar battery options (circle, dotted circle, large circles, hide)
+[*]Custom status bar clock and date (center clock available)
 [*]Battery Bar (status bar & navbar)
 [*]Network traffic indicator
+[*]Status bar icon blacklisting
 [/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]Notification Drawer[/U][/COLOR][/I][/SIZE]
-[LIST][*]QS Weather tile (OmniJaws engine)
-[*]Custom Headers (contextual or custom)
+[LIST][*]Custom headers
 [*]Advanced location tile (3-mode location toggle)
-[*]Brightness slider on/off toggle (on bottom)
-[*]Haptic feedback on quick setting on/off toggle
+[*]Brightness: slider show/hide, slider positioning, brightness buttons show/hide, and more
+[*]Quick pull-down
+[*]Tile animation options
 [*]Ability to change number of quick settings columns/rows
 [*]Option to hide QS tile titles
-[*]Heads-up (less boring & blacklisting)
+[*]Heads-up (immunizer, blacklister, snooze, duration)
+[*]QS opacity
 [/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]Lock screen[/U][/COLOR][/I][/SIZE]
 [LIST][*]Lock screen bottom shortcut options
 [*]Lock screen charging info
 [*]Media art on lock screen (enable/disable)
-[*]Lock screen weather (OmniJaws engine)
+[*]Lock screen weather (stock Pixel version)
 [*]Lock screen visualizer
 [/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]Buttons[/U][/COLOR][/I][/SIZE]
 [LIST][*]Power Menu customizations (shortcuts, actions)
-[*]Volume key wake
 [*]Volume key music control
-[*]Volume key orientation swap
-[*]Volume key keyboard cursor control
-[*]Volume down to enter do not disturb
-[*]Volume up to exit do not disturb
-[*]Do not disturb volume panel switch
+[*]Advanced volume panel
 [*]Long-press power button for torch
 [/LIST]
 
 [size=3][I][COLOR="#0d90c4"][U]System and Misc[/U][/COLOR][/I][/SIZE]
 [LIST][*]Substratum compatibility
-[*]Battery and Notification LED controls
-[*]Music app launcher with headset options
+[*]Notification LED controls
+<<<<<[*]Battery LED controls
 [*]Optional "Clear all" recents button (including placement)
 [*]Increasing ringtone option
 [*]Ability to unlink notification volume from ringer volume
 [*]Option to force show Enter key
-[*]Download speed in notification
+[*]Network speed indicator
 [*]Status bar brightness control
+[*]Screen-off animations
 [*]Double-tap to sleep on lock screen, navbar, & status bar
-[*]Advanced Reboot menu
-[*]Advanced screenshot functionality (partial/fullscreen & editor app selector)
+[*]Advanced screenshot functionality (partial/fullscreen)
 [*]Advanced screen recording tile
-[*]Advanced charging sound controls
 [*]App package name to app info screen
-[*]Ability to launch app when touching app icon in app info screen
 [*]Dynamic vendor image notification
-[*]Long press power for torch
-[*]Option to disable fingerprint success vibration
 [*]Hidden dashboard hints & summaries
 [*]Developer settings enabled by default
 [*]Custom night light brightness options
 [*]Disabled forced encryption
 [*]Disabled tether provision checks
 [*]Expanded desktop options
-[*]Vibrate on plug (enable/disable)
-[*]Wake on plug (enable/disable)
 [*]Bug fixes and stability improvements
 [/LIST]
 [/hide]
@@ -228,11 +227,11 @@ Either save your log locally and share it, or paste your log into an online code
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Credits & Thanks:[/COLOR][/FONT][/SIZE][/B]
 Ezio84
+OmniRom
 Dirty Unicorns
 SlimRoms
 The LineageOS Community
 Team Substratum
-OmniRom
 The AquariOS testers!!!
 And all other open source Devs/Teams who share their work!
 
