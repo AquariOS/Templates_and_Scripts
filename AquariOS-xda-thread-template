@@ -4,7 +4,7 @@
 
                                       PLEASE BE AWARE OF THE FOLLOWING:
 
-1. FIND THE 7 ENTRIES BELOW MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
+1. FIND THE 8 ENTRIES STARTING BELOW LINE #40 MARKED WITH "<<<<<" AND MAKE THE APPROPRIATE CHANGES TO THE MARKED LINE.
 
 2. REMOVE THE "<<<<<" FROM YOUR COPY AFTER YOUR EDITING IS COMPLETED.
 
@@ -77,6 +77,7 @@ This is a user friendly thread. Please be respectful and courteous to other user
 *[MENTION=2968294]MikereDD[/MENTION]
 *[MENTION=6881531]popogijo[/MENTION]
 *[MENTION=5391886]DigiGoon[/MENTION]
+*[MENTION=7009886]WelcomeToTheSkye[/MENTION]
 
 [B]OFFICIAL TESTERS:[/B]
 *[MENTION=2282448]biron_w[/MENTION]
@@ -102,13 +103,14 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [*]Theming: Accent picker (27 colors)
 [*]Theming: AquariOS TileStyles (changes QS tile shapes) 
 [*]Theming: Font engine
+[*]On-the-fly Recents style switch (Horizontal/vertical)
 [*]Custom status bar battery options
 [*]Custom status bar clock and date
 [*]Custom headers
 [*]Lock screen weather: Pixel style
 [*]BatteryBar: status bar & navbar
-[*]Custom LED color controls
-[*]"Clear all" recents button (if QuickStep disabled)
+<<<<<[*]Custom LED color controls
+[*]"Clear all" recents button options
 [*]Volume rocker options
 [*]Lock screen visualizer
 [*]Lock screen custom clocks
@@ -159,7 +161,7 @@ This is a user friendly thread. Please be respectful and courteous to other user
 
 [size=3][I][COLOR="#0d90c4"][U]System and Misc[/U][/COLOR][/I][/SIZE]
 [LIST][*]Substratum compatibility
-[*]Notification LED controls
+<<<<<[*]Notification LED controls
 <<<<<[*]Battery LED controls
 [*]Custom doze options
 [*]Optional "Clear all" recents button (including placement)
@@ -169,6 +171,7 @@ This is a user friendly thread. Please be respectful and courteous to other user
 [*]Network speed indicator
 [*]Status bar brightness control
 [*]Screen-off animations
+[*]On-the-go tile
 [*]Double-tap to sleep on lock screen, navbar, & status bar
 [*]Advanced screenshot functionality (partial/fullscreen)
 [*]Advanced screen recording tile
@@ -186,11 +189,8 @@ This is a user friendly thread. Please be respectful and courteous to other user
 
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Changelog:[/COLOR][/FONT][/SIZE][/B]
-[HIDE][CODE]
 
-<<<<< PASTE CHANGELOG TEXT HERE FROM OUT FOLDER
-
-[/CODE][/HIDE]
+[SIZE="3"][URL="https://raw.githubusercontent.com/AquariOS/changelog/a9/Changelog.txt"]Information here[/URL][/SIZE]
 
 [B][SIZE="5"][FONT="Trebuchet MS"][COLOR="#0d90c4"]Downloads:[/COLOR][/FONT][/SIZE][/B]
 
@@ -240,6 +240,4 @@ And all other open source Devs/Teams who share their work!
 
 [B]Source Code:[/B]
 <<<<<[URL="https://github.com/AquariOS/kernel_huawei_angler"]Kernel[/URL]
-
-[CENTER][B][FONT="Verdana"][URL="https://plus.google.com/communities/102431925733881544384"][COLOR="#c44238"][SIZE="5"]       JOIN OUR[/SIZE][SIZE="7"] G+ [/SIZE][SIZE="5"]COMMUNITY![/SIZE][/COLOR][/URL][/FONT][/B][/CENTER]
 ===============================================COPY THREAD TEMPLATE STARTS ABOVE THIS==============================================
